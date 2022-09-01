@@ -1,2 +1,0 @@
-# techshared
-technology shared 
